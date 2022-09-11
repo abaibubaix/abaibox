@@ -1,4 +1,4 @@
-# jcnf 常用脚本工具包
+# 阿白 常用脚本工具包
 玩机，是不是有很多命令或者脚本记不住，因此我整理了一些我个人常用的脚本。
 ***
 
@@ -12,10 +12,10 @@
 
 
 
-	wget -O jcnfbox.sh https://raw.githubusercontent.com/Netflixxp/jcnf-box/main/jcnfbox.sh && chmod +x jcnfbox.sh && clear && ./jcnfbox.sh
+	wget -O abaibox.sh https://raw.githubusercontent.com/abaibubaix/abaibox/main/abaibox.sh && chmod +x abaibox.sh && clear && ./abaibox.sh
 英文版，机器翻译English version
 
-	wget -O jcnfbox-en.sh https://raw.githubusercontent.com/Netflixxp/jcnf-box/main/jcnfbox-en.sh && chmod +x jcnfbox-en.sh && clear && ./jcnfbox-en.sh
+	wget -O abaibox-en.sh https://raw.githubusercontent.com/abaibubaix/abaibox/main/abaibox-en.sh && chmod +x abaibox-en.sh && clear && ./abaibox-en.sh
 ***
 
 
@@ -44,27 +44,15 @@
 	- gost一键中转
 	- MTP&TLS 一键脚本
 	- xray一键安装8合一脚本
-	- v2-ui一键安装
+	- x-ui一键安装
 	- wulabing一键xray脚本
 	- Ehcoo隧道中转(2021年7月3日添加)
 
-![功能列表](https://cdn.jsdelivr.net/gh/Netflixxp/jcnf-box/img/sm.jpg)
 ***
 
 # 免责声明
-* jcnfbox属于自用分享工具，请勿用于违背良知与道德之事，否则后果自负。
+* abaibox属于自用分享工具，请勿用于违背良知与道德之事，否则后果自负。
 * 工具中所有脚本均来自互联网，不对脚本安全性负责。如果你比较在意安全，请勿使用各类一键脚本。
-***
-
-# 问题反馈
-[TG频道](https://t.me/mffjc)
-[TG群组](https://t.me/jcnfnatuo)
-***
-
-# [购买奈飞、YouTube正规合租车](https://jcnf.xyz/nf)
-***
-
-# [群友众筹公益机场](https://jcnf.xyz/jd)
 ***
 
 # 感谢
