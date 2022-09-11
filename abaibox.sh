@@ -263,9 +263,9 @@ yellow "下载完成，你也可以输入 bash /root/wulabing.sh 来手动运行
 bash "/root/wulabing.sh"
 }
 
-#v2-ui.sh 一键安装
-function v2-ui(){
-bash <(curl -Ls https://blog.sprov.xyz/v2-ui.sh)
+#x-ui.sh 一键安装
+function x-ui(){
+bash <(curl -Ls https://github.com/abaibubaix/mgxui/raw/main/mgxui.sh)
 }
 
 # Cloudflare WARP 一键配置脚本
@@ -312,7 +312,7 @@ function start_menu(){
     green " 22. gost一键中转 "
     green " 23. MTP&TLS 一键脚本 "
     green " 24. xray一键安装8合一脚本 "
-    green " 25. v2-ui一键安装 "
+    green " 25. x-ui一键安装 "
 	green " 26. wulabing一键xray脚本 "
 	green " 27. Ehcoo隧道中转 "
 	
@@ -385,7 +385,7 @@ function start_menu(){
            xray
 	;;
 		25 )
-           v2-ui
+           x-ui
 	;;
 		26 )
            wulabing
