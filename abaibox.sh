@@ -1,5 +1,5 @@
 #! /bin/bash
-# By jcnf
+# By abaibubaix
 
 #颜色
 red(){
@@ -281,10 +281,10 @@ bash <(curl -fsSL https://leo.moe/ehco.sh)
 #主菜单
 function start_menu(){
     clear
-    red " jcnf 常用脚本包" 
-    green " https://github.com/Netflixxp/jcnf-box "
-    green " 博客 https://ybfl.xyz "
-	green " TG频道 https://t.me/mffjc "
+    red " abai 常用脚本包" 
+    green " https://github.com/abaibubaix/abaibox "
+    green " 博客 "
+	green " TG频道 "
 	
 	yellow " =======服务器检查============================== "
     green " 1. Lemonbench 综合测试 "
