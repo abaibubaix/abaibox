@@ -9,6 +9,9 @@
 
 安装并运行脚本
 
+
+
+
 	wget -O jcnfbox.sh https://raw.githubusercontent.com/Netflixxp/jcnf-box/main/jcnfbox.sh && chmod +x jcnfbox.sh && clear && ./jcnfbox.sh
 英文版，机器翻译English version
 
